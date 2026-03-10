@@ -1,15 +1,6 @@
 # Sistem Pencarian Rute Optimal: Singaparna → Bandung
 
-**UTS Nomor 10: Perbandingan Algoritma Pencarian Rute**
-
----
-
-## Identitas Mahasiswa
-
-- **Nama**       : Farhan Fauzan Azima
-- **NPM**        : 20230202001
-- **Mata Kuliah**: Artificial Intelligence
-- **Tugas**      : UTS - Soal Nomor 10
+**Perbandingan Algoritma Pencarian Rute**
 
 ---
 
@@ -212,7 +203,7 @@ ANALISIS:
    - Ukuran: 900x600 pixel
    - Jika tidak ada, program tetap berjalan tanpa background
 
-2. **Gambar Animasi** ⭐ NEW!
+2. **Gambar Animasi** NEW!
    - File `animasi.png` harus diletakkan di folder `assets/`
    - Format: PNG (lebih baik dengan background transparan)
    - Ukuran recommended: 40x40 pixel atau lebih besar
@@ -235,7 +226,7 @@ ANALISIS:
 
 ---
 
-## Kesimpulan UTS Nomor 10
+## Kesimpulan
 
 Program ini berhasil mengimplementasikan **3 algoritma pencarian** dengan fitur:
 
@@ -248,15 +239,12 @@ Output detail di console dan popup
 **Interpolasi posisi** - Tidak melompat, tapi sliding smooth  
 **Visual effect** - Shadow dan border untuk ikon animasi  
 
-**Nilai yang diharapkan: 100** (Soal Nomor 10 + Bonus Animasi)
 
 ---
 
 ## Kontak
 
-**Farhan Fauzan Azima**  
-NPM: 20230202001
 
 ---
 
-**© 2024 - Tugas UTS Artificial Intelligence**
+**© 2024 - Artificial Intelligence - Perbandingan Algoritma Pencarian Rute**
